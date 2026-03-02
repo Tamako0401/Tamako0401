@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-!Y11Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamako0401)<!--
+![Y11Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamako0401)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401)
 
