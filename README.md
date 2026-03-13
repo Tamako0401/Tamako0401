@@ -2,7 +2,7 @@
 
 ![Y11Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamako0401)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401&layout=compact&ignore_repo=Tamako0401/Tamako0401.github.io,Tamako0401/my_mizuki_blog&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401&layout=compact&langs_count=6&hide=html,css&ignore_repo=Tamako0401/Tamako0401.github.io,Tamako0401/my_mizuki_blog)
 
 
 <!--
