@@ -2,7 +2,8 @@
 
 ![Y11Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamako0401)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401&layout=compact&ignore_repo=Tamako0401/Tamako0401.github.io)
+
 
 <!--
 **Tamako0401/Tamako0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
