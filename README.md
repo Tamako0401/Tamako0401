@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Dx Rating](https://dxrating.luoling.moe/api/genImage/Y11Han)
+
 ![Y11Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamako0401)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamako0401&layout=compact&langs_count=6&hide=html,css&exclude_repo=Tamako0401.github.io,my_mizuki_blog,twikoo-netlify)
